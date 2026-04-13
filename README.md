@@ -71,7 +71,6 @@ Zero-touch provisioning was configured end-to-end:
   - Deployment mode: User-Driven
   - Join type: Azure AD Joined
   - User account type: Standard (non-admin)
-  - Device naming template: `LAB-%RAND:4%`
 - **Enrollment Status Page (ESP)** configured to:
   - Block device use until all apps and profiles are installed
   - Show installation progress during OOBE
